@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Alesya Zhyvitsa](https://up.htmlacademy.ru/javascript/19/user/69938).
-* Наставник: `Неизвестно`.
+* Наставник: `Роман Духницький`.
 
 ---
 
